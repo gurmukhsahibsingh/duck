@@ -1,0 +1,2 @@
+# duck
+New to github
